@@ -76,14 +76,16 @@ a {
 ==================================================*/
 
 h1 {
-    color: #7bb6b8 !important;
-    font-size: 60px;
+    color: #6cbabd !important;
+    font-size: 80px;
     text-transform: none;
 
 }
 
-h3 {
+h3 {text-align: center;
     color: #829394;
+    font-size: 30px;
+     text-transform: bold;
 }
 
 h5 {text-align: center;
