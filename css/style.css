@@ -107,6 +107,7 @@ h1 mark {
 }
 
 h4 li {
+list-style-type: none;
     padding-right: 4vw;
     padding-left: 4vw;
     text-align: left;
