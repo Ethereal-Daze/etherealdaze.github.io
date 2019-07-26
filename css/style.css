@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
-    color: #999
+    color: #141414
 }
 
 .no-padding {
@@ -27,11 +27,11 @@ body {
 }
 
 .main-container a:hover {
-    color: #666;
+    color: #141414;
   }
 
   .main-container a {
-    color: rgb(226, 173, 0);
+    color: rgb(20, 20, 20);
     font-weight: 600;
   }
 .center {
@@ -63,11 +63,11 @@ a {
 }
 
 .h-a {
-    color: #ff7300;
+    color: #3a5c66;
 }
 
 .color {
-    color: #ffbf00;
+    color: #20687d;
     font-size: 11px;
 }
 
@@ -76,23 +76,23 @@ a {
 ==================================================*/
 
 h1 {
-    color: #9b6f1f !important;
+    color: #d4d4d4 !important;
     font-size: 60px;
     text-transform: uppercase;
 
 }
 
 h3 {
-    color: #393939;
+    color: #829394;
 }
 
 h5 {text-align: center;
-    color: #ffbf00;
+    color: #657070;
 }
 
 p mark{
-    background-color: rgb(255, 255, 255);
-    color: rgb(212, 173, 0); 
+    background-color: rgb(101, 112, 112);
+    color: rgb(66, 66, 66); 
 }
 
 
@@ -1165,7 +1165,7 @@ textarea:focus {
 
 .btn-box:hover,
 .btn-box:focus {
-    background: #F5B700;
+    background: #ccecf0;
     color: #fff;
 }
 
