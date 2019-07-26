@@ -7,7 +7,7 @@
 html,
 body {
     height: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', Jaapokki-Regular;
     line-height: 1.8;
     color: #141414
 }
@@ -450,7 +450,7 @@ h4 li a:hover i {
 .box-intro {
     text-align: center;
     background-image: url("../img/relax.jpg");
-    background-image: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgba(255, 246, 239, 0.721) 100%), url("../img/relax.jpg");
+    background-image: linear-gradient(to top, rgb(255, 255, 255) 0%,rgba(255, 246, 239, 0.721) 70%), url("../img/relax.jpg");
     background-size:cover;
     display: table;
 
