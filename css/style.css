@@ -121,7 +121,23 @@ h4 li i {
 h4 li a:hover i {
     color: #666;
   }
-   
+   }
+
+h3 li {
+list-style-type: none;
+    padding-right: 2.6vw;
+    padding-left: 2.6vw;
+    
+    float: left;
+}
+h3 li i {
+    color: rgb(156, 16, 27);
+    font-size: 1.7em;
+}
+
+h3 li a:hover i {
+    color: #666;
+  }
 
 
 /* preloader
