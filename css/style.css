@@ -113,18 +113,15 @@ h4 li {
     list-style-type: none;
     padding-right: 4vw;
     padding-left: 4vw;
-    text-align: center
+    float: middle;
 }
 h4 li i {
     color: rgb(156, 16, 27);
     font-size: 3em;
-      text-align: center;
 }
 
 h4 li a:hover i {
     color: #666;
-    font-size: 3em;
-      text-align: center;
   }
    
 
