@@ -8,7 +8,7 @@ html,
 body {
     height: 100%;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 1.8;
+    line-height: 2;
     color: #141414
 }
 
@@ -90,6 +90,8 @@ h3 {text-align: center;
 
 h5 {text-align: center;
     color: #657070;
+      font-size: 30px;
+     text-transform: bold;
 }
 
 p mark{
