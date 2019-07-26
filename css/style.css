@@ -110,7 +110,8 @@ h4 li {
 list-style-type: none;
     padding-right: 2.6vw;
     padding-left: 2.6vw;
-    float: right;
+    
+    float: left;
 }
 h4 li i {
     color: rgb(156, 16, 27);
