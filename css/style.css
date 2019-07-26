@@ -563,7 +563,7 @@ b i:last-child {
 }
 
 .box-headline.rotate-2 b {
-    opacity: 3;
+    opacity: 0;
 }
 
 .box-headline.rotate-2 i {
@@ -571,7 +571,7 @@ b i:last-child {
     transform-style: preserve-3d;
     -webkit-transform: translateZ(-20px) rotateX(80deg);
     transform: translateZ(-20px) rotateX(80deg);
-    opacity: 3;
+    opacity: 0;
 }
 
 .is-visible .box-headline.rotate-2 i {
