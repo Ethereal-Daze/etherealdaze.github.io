@@ -76,7 +76,7 @@ a {
 ==================================================*/
 
 h1 {
-    color: #d4d4d4 !important;
+    color: #2c5c70 !important;
     font-size: 60px;
     text-transform: uppercase;
 
@@ -91,13 +91,13 @@ h5 {text-align: center;
 }
 
 p mark{
-    background-color: rgb(101, 112, 112);
+    background-color: rgb(59, 136, 168);
     color: rgb(66, 66, 66); 
 }
 
 
 h5 mark {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(59, 136, 168);
     color: rgb(212, 173, 0);
     font-weight: 600;
 }
@@ -208,7 +208,7 @@ h4 li a:hover i {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(59, 136, 168, 0.95);
 
     width: 100%;
     z-index: 3;
@@ -294,7 +294,7 @@ h4 li a:hover i {
     width: 100%;
     height: 100%;
     position: absolute;
-    background-color: #393939;
+    background-color: #2c5c70;
     right: 0;
     -webkit-transition: -webkit-transform .3s, top .3s, background-color 0s;
     -webkit-transition: top .3s, background-color 0s, -webkit-transform .3s;
@@ -411,7 +411,7 @@ h4 li a:hover i {
 }
 
 .box-primary-nav .box-label {
-    color: #ffbf00;
+    color: #2c5c70;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 17px;
@@ -471,7 +471,7 @@ h4 li a:hover i {
   text-align: left;
   font-size: 16px;
 
-  color: #7a7a7a;
+  color: #2c5c70;
 
     
 }
@@ -833,7 +833,7 @@ b i:last-child {
 
 .portfolio_item .portfolio_item_hover .item_info span {
     display: block;
-    color: #fff;
+    color: #2c5c70;
     font-size: 18px;
     -webkit-transform: translateX(-100px);
     transform: translateX(-100px);
@@ -979,7 +979,7 @@ footer img {
     font-size: 60px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #999;
+    color: #2c5c70;
 
     line-height: 50px;
 }
@@ -1139,7 +1139,7 @@ textarea:focus {
     height: 30px;
     width: 30px;
     display: inline-block;
-    background: #ffbf00;
+    background: #2c5c70;
     text-align: center;
     line-height: 33px;
     margin-right: 10px;
@@ -1165,8 +1165,8 @@ textarea:focus {
 
 .btn-box:hover,
 .btn-box:focus {
-    background: #ccecf0;
-    color: #fff;
+    background: #2c5c70;
+    color: #2c5c70;
 }
 
 
