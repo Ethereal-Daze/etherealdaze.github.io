@@ -90,7 +90,7 @@ h5 {text-align: left;
 }
 
 p mark{
-    background-color: rgb(59, 136, 168);
+    background-color: rgb(255, 234, 148);
     color: rgb(66, 66, 66); 
 }
 
@@ -163,13 +163,14 @@ h3 li a:hover i {
     right: auto;
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    text-align: center;
+    text-align: left;
 }
 
 .spinner {
     width: 40px;
     height: 40px;
     position: relative;
+ 
     margin: 100px auto;
 }
 
@@ -257,7 +258,7 @@ h3 li a:hover i {
 .box-header.is-visible {
     -webkit-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
-    text-align: center;
+    text-align: left;
 }
 
 .box-header.menu-is-open {
@@ -378,7 +379,7 @@ h3 li a:hover i {
     width: 100%;
     background: rgba(0, 0, 0, 0.96);
     z-index: 2;
-    text-align: center;
+    text-align: left;
     padding: 50px 0;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -462,7 +463,7 @@ h3 li a:hover i {
 ==================================================*/
 
 .box-intro {
-    text-align: center;
+    text-align: left;
     background-image: url("../img/relax.jpg");
     background-image: linear-gradient(to top, rgb(255, 255, 255) 0%,rgba(255, 246, 239, 0.721) 50%), url("../img/relax.jpg");
     background-size:cover;
@@ -482,7 +483,7 @@ h3 li a:hover i {
 }
 
 .box-intro .table-cell p {
-  text-align: center;
+  text-align: left;
   font-size: 16px;
 
   color: #2c5c70;
@@ -501,7 +502,7 @@ b i:last-child {
 }
 
 .box-intro h5 {
-    text-align: center;
+    text-align: left;
 
     letter-spacing: 4px;
     font-size: 2vw;
@@ -533,7 +534,7 @@ b i:last-child {
 .box-headline {
     font-size: 6vw;
     line-height: 1.0;
-    text-align: center;
+    text-align: left;
     margin-left: -4vw;
 
 
