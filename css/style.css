@@ -13,8 +13,8 @@ body {
 }
 
 .no-padding {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 2.6;
+    padding-right: 2.6;
 }
 
 .no-padding [class^="col-"] {
@@ -88,7 +88,7 @@ h1 {
 h5 {text-align: center;
     color: #657070;
       font-size: 30px;
-     text-transform: bold;
+     text-transform: uppercase;
     padding-right: 2.6vw;
     padding-left: 2.6vw;
 }
