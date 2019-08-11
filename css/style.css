@@ -13,13 +13,13 @@ body {
 }
 
 .no-padding {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 2;
+    padding-right: 2;
 }
 
 .no-padding [class^="col-"] {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 2;
+    padding-right: 2;
 }
 
 .main-container {
@@ -80,6 +80,8 @@ h1 {
     font-size: 80px;
     text-transform: none;
     text-align: left;
+    padding-right: 2.6vw;
+    padding-left: 2.6vw;
 
 }
 
@@ -87,6 +89,8 @@ h5 {text-align: left;
     color: #657070;
       font-size: 30px;
      text-transform: bold;
+    padding-right: 2.6vw;
+    padding-left: 2.6vw;
 }
 
 p mark{
@@ -103,6 +107,8 @@ h5 mark {
 h1 mark {
     background-color: rgba(255, 255, 255, 0);
     color: rgb(255, 215, 38);
+    padding-right: 2.6vw;
+    padding-left: 2.6vw;
 
 }
 
