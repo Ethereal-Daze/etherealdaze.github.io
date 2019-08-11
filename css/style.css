@@ -13,13 +13,13 @@ body {
 }
 
 .no-padding {
-    padding-left: 2;
-    padding-right: 2;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .no-padding [class^="col-"] {
-    padding-left: 2;
-    padding-right: 2;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .main-container {
@@ -45,8 +45,8 @@ a {
 }
 
 .container-fluid { 
-    padding-left: 2;
-    padding-right: 2;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 
