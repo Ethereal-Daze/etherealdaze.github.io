@@ -85,7 +85,7 @@ h1 {
 
 }
 
-h5 {text-align: left;
+h5 {text-align: center;
     color: #657070;
       font-size: 30px;
      text-transform: bold;
@@ -127,23 +127,7 @@ h4 li i {
 h4 li a:hover i {
     color: #666;
   }
-   }
 
-h3 li {
-list-style-type: none;
-    padding-right: 2.6vw;
-    padding-left: 2.6vw;
-    
-    float: right;
-}
-h3 li i {
-    color: rgb(156, 16, 27);
-    font-size: 1.7em;
-}
-
-h3 li a:hover i {
-    color: #666;
-  }
 
 
 /* preloader
@@ -169,7 +153,7 @@ h3 li a:hover i {
     right: auto;
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    text-align: left;
+    text-align: center;
 }
 
 .spinner {
@@ -264,7 +248,7 @@ h3 li a:hover i {
 .box-header.is-visible {
     -webkit-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
-    text-align: left;
+    text-align: center;
 }
 
 .box-header.menu-is-open {
@@ -385,7 +369,7 @@ h3 li a:hover i {
     width: 100%;
     background: rgba(0, 0, 0, 0.96);
     z-index: 2;
-    text-align: left;
+    text-align: center;
     padding: 50px 0;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -469,7 +453,7 @@ h3 li a:hover i {
 ==================================================*/
 
 .box-intro {
-    text-align: left;
+    text-align: center;
     background-image: url("../img/relax.jpg");
     background-image: linear-gradient(to top, rgb(255, 255, 255) 0%,rgba(255, 246, 239, 0.721) 50%), url("../img/relax.jpg");
     background-size:cover;
