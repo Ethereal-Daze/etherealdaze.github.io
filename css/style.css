@@ -27,7 +27,7 @@ body {
 }
 
 .main-container a:hover {
-    color: #141414;
+    color: #9fabaa;
   }
 
   .main-container a {
@@ -96,7 +96,7 @@ p mark{
 
 
 h5 mark {
-    background-color: rgb(59, 136, 168);
+    background-color: rgb(247, 247, 186);
     color: rgb(212, 173, 0);
     font-weight: 600;
 }
@@ -114,7 +114,7 @@ list-style-type: none;
     float: left;
 }
 h4 li i {
-    color: rgb(156, 16, 27);
+    color: rgb(199, 168, 44);
     font-size: 1.7em;
 }
 
@@ -280,7 +280,7 @@ h3 li a:hover i {
 
 .box-primary-nav-trigger .box-menu-text {
     color: #9c101b;
-    text-transform: uppercase;
+    text-transform: none;
     font-weight: 700;
     display: none;
 }
@@ -426,7 +426,7 @@ h3 li a:hover i {
 
 .box-primary-nav .box-label {
     color: #2c5c70;
-    text-transform: uppercase;
+    text-transform: none;
     font-weight: 700;
     font-size: 17px;
     margin: 2.4em 0 .8em;
@@ -497,7 +497,7 @@ h3 li a:hover i {
 }
 
 b i:last-child {
-    color: #9c101b !important;
+    color: #c7a82c !important;
 }
 
 .box-intro h5 {
@@ -705,7 +705,7 @@ b i:last-child {
 
 .portfolio .categories-grid .categories ul li a {
     display: inline-block;
-    color: #60606e;
+    color: #606e6d;
     padding: 0 10px;
     margin: 0 10px;
     -webkit-transition: all .2s ease-in-out .2s;
@@ -721,7 +721,7 @@ b i:last-child {
     margin-left: 0;
     background-color: #ffffff;
     padding: 0px 20px;
-    color: #9c101b;
+    color: #c7a82c;
     border-radius: 25px;
     text-decoration: uppercase;
 }
@@ -747,7 +747,7 @@ b i:last-child {
 }
 
 .col-md-12.twentydays {
-    background: #4c3e51;
+    background: #c7a82c;
 }
 
 .col-sm-12 img {
@@ -801,7 +801,7 @@ b i:last-child {
 .portfolio_item .portfolio_item_hover .item_info em {
     font-style: normal;
     display: inline-block;
-    background-color:#ffcb3d;
+    background-color:#c7a82c;
     padding: 5px 20px;
     border-radius: 25px;
     color: #333;
