@@ -454,7 +454,7 @@ h4 li a:hover i {
 
 .box-intro {
     text-align: center;
-    background-image: url("../img/relax.jpg");
+    background-image: url("../img/relax.jpg.png");
     background-image: linear-gradient(to top, rgb(255, 255, 255) 0%,rgba(255, 246, 239, 0.721) 50%), url("../img/relax.jpg");
     background-size:cover;
     display: table;
