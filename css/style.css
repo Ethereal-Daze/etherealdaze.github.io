@@ -726,6 +726,15 @@ b i:last-child {
     overflow: hidden;
     display: block;
     overflow: hidden;
+    }
+
+.col-md-3.Shuichi img {
+    object-fit: cover;  
+    width: 100%;
+    max-width: 800px;
+    margin:auto;
+    height: 25em;
+    clip-path: inset(0px 10px 0px 10px);
 }
 
 .col-md-12.twentydays img {
